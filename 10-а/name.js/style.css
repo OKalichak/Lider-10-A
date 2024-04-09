@@ -1,0 +1,11 @@
+#first {
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    left: 0px;
+    background-color: blueviolet;
+}
+body {
+    height: auto;
+    width: auto;
+}
